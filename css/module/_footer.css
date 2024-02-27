@@ -1,0 +1,25 @@
+.pizzaria{
+    background-color: #da582f;
+    height: 250px;
+    margin-top: 20px;
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+}
+
+ .logo-final{
+    height: 60px;
+
+ }   
+
+.compart{
+    height: 40px;
+}
+
+.footer{
+    text-align: center;
+}
+
+
+
+
