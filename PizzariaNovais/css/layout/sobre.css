@@ -1,0 +1,16 @@
+.sobre-mim{
+    background-color: antiquewhite;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+.main_title{
+    text-align: center;
+}
+
+.sobre{
+    font-size: 25px;
+    font-family:monospace;
+    margin: 25px;
+    
+}
